@@ -1,0 +1,4 @@
+<resources>
+
+    <dimen name="radius_rectangle">18dp</dimen>
+</resources>
